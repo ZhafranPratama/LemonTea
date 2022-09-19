@@ -1,5 +1,3 @@
 # LemonTea
 
-## ....is delicious asf
-
-malen hayu ehehe
+### ....is delicious asf
